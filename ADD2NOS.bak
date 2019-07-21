@@ -1,0 +1,9 @@
+#include <iostream.h>
+int main()
+{
+int a,b;
+cout<<"Enter two numbers to be added - \n";
+cin>>a>>b;
+cout<<"Sum = "<<a+b;
+return 0;
+}

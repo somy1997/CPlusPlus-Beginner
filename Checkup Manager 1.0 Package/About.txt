@@ -1,0 +1,16 @@
+CheckUp Manager 1.0 developed by Nishant Baranwal Somy (Roll. 12126) and 
+Sagar Kowe (Roll. 12130) of class XII 'A' of year 2013, Kendriya Vidyalaya
+IIT Powai. This software is not protected by any copyrights and any 
+able-minded developer should feel free to use/modify the source code as 
+they see fit as long as they give some credit to the original creators of 
+the code.
+
+Usage : First time users will be asked to initialize a password called 
+AuthCode. DO NOT LOOSE THIS AUTHCODE. Program will hold records 
+of Doctors (users), Patients (Clients) and Checkups (done by Doctors
+for Patients). These records can be easily viewed. Please use with care
+and do not press [ENTER] while entering quantity of medicine during checkups. 
+It tends to screw up the program and we do not have the willpower/time
+to fix it right now.
+
+Thank you for choosing Checkup Manager 1.0 
